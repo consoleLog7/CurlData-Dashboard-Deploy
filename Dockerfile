@@ -6,4 +6,4 @@ RUN apk update && \
 
 ADD entrypoint.sh /entrypoint.sh
 
-ENTRYPOINT [ "/entrypoint.sh" ]
+ENTRYPOINT [ "/consoleLog7/CurlData-Dashboard-Deploy/blob/main/entrypoint.sh" ]
