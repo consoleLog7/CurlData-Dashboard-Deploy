@@ -1,5 +1,5 @@
 #!/bin/sh
-
+chmod +x docker-entrypoint.sh
 set -e
 set -x
 
